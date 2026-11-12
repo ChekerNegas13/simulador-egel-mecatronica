@@ -1,5 +1,11 @@
 # Simulador EGEL Mecatrónica 2026
 
+## Abrir en celular
+
+**[Abrir el simulador](https://chekernegas13.github.io/simulador-egel-mecatronica/)**
+
+Abre este enlace en Chrome o Safari. No necesitas descargar el HTML. Puedes añadirlo a la pantalla de inicio desde el menú del navegador.
+
 Cuestionario interactivo de práctica para estudiantes de **Ingeniería Mecatrónica**, basado en un documento de simulación EGEL-CENEVAL proporcionado para este proyecto.
 
 > [!IMPORTANT]
@@ -43,7 +49,7 @@ Cuestionario interactivo de práctica para estudiantes de **Ingeniería Mecatró
 
 ## Publicación gratuita con GitHub Pages
 
-La versión diseñada para celular se distribuye como un único archivo HTML: `Simulador_EGEL_Mecatronica_2026_Movil.html`.
+La versión diseñada para celular está en `index.html`, en la raíz de este repositorio.
 
 1. Crea un repositorio **público** en GitHub, por ejemplo `simulador-egel-mecatronica`.
 2. Sube el archivo HTML y **renómbralo a `index.html`** en la raíz del repositorio.
@@ -55,10 +61,10 @@ La versión diseñada para celular se distribuye como un único archivo HTML: `S
 La dirección normalmente tendrá esta forma:
 
 ```text
-https://TU-USUARIO.github.io/simulador-egel-mecatronica/
+https://chekernegas13.github.io/simulador-egel-mecatronica/
 ```
 
-Reemplaza `TU-USUARIO` por tu usuario de GitHub. Si el nombre del repositorio cambia, cambia también la última parte de la URL.
+Si el nombre del repositorio cambia, cambia también la última parte de la URL.
 
 ### Uso desde Android o iPhone
 
@@ -87,3 +93,4 @@ Para consultar el temario, la estructura y los criterios **oficiales y actualiza
 ## Uso y atribución
 
 Las preguntas provienen del documento de práctica **«SIMULADOR EGEL MECATROINICA 2026»** proporcionado para la elaboración de esta versión. Antes de redistribuir públicamente el contenido, verifica que tienes permiso para compartirlo. Este repositorio no afirma titularidad sobre materiales de terceros y no implica afiliación con CENEVAL.
+
